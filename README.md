@@ -6,6 +6,13 @@
         
         Our project is Reduce mechanical parts so reduce the weight ,Vision based solution , Use machine learing to give the correct grip according to object , Real time operation , Cloud base user history tracking .
         
+        I am using deep learning to do this project . So i'm following deep learing specialization courses in coursera .
+        
+        
+       This is the link to the certification of first course of spetilizaion.
+       
+       https://www.coursera.org/account/accomplishments/certificate/WG3FFZL8WYCY
+        
         
         
         
